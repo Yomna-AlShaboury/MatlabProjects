@@ -9,3 +9,4 @@ The calculator includes two main parts.
 ## Demo Link
 - https://youtu.be/ZVbCbHoj-vA
 ## Application
+<img src="Images/calc.png" alt="drawing" style="width:200px;"/>
