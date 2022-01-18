@@ -1,7 +1,7 @@
-# Calculator
+# Happy? or Sad?
 
 
-MATLAB GUI Happy or Sad?.
+## MATLAB GUI Happy or Sad?
 The project gets your age and tells you if you're happy oe not.
 If your age is less than 60, you're happy. Otherwise, you're sad!
 
