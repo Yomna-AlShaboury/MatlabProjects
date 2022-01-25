@@ -10,6 +10,7 @@ The app has 2 modes:
 You can select you pin number (the one you want to draw its waveform) from each mode corresponding to you arduino board.
 
 You can see the waveform with your desired time step (resolution), and max time difference in the window.
+- Time resolution should be greater than 0.001
 
 ## Demo Link
 - https://youtu.be/Rj_PzE-LAqg
