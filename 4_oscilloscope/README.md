@@ -18,11 +18,11 @@ You can see the waveform with your desired time step (resolution), and max time 
 <img src="Images/app1.png" alt="drawing" style="width:700px;"/>
 
 ## Analog Oscilloscope
-<img src="Images/app1.png" alt="drawing" style="width:700px;"/>
+<img src="Images/app2.png" alt="drawing" style="width:700px;"/>
 
 ## Digital Oscilloscope
-<img src="Images/app1.png" alt="drawing" style="width:700px;"/>
+<img src="Images/app3.png" alt="drawing" style="width:700px;"/>
 
 ## Time Resolution Change
-<img src="Images/app1.png" alt="drawing" style="width:700px;"/>
+<img src="Images/app4.png" alt="drawing" style="width:700px;"/>
 
